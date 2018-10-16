@@ -75,7 +75,7 @@ You should see "Certificate reply was installed in keystore"
 
 - Uncomment SSL connector section
 - set password
-- set keystoreFile="/var/atlassian/keystoresletsencrypt.jks"
+- set keystoreFile="/var/atlassian/keystores/letsencrypt.jks"
 
 Here's a working example:
 ```
