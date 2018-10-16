@@ -11,7 +11,7 @@ Install java keytool:
 sudo apt install openjdk-9-jre-headless -Y
 
 Create a new working directory:
-sudo mpdir -p /var/atlassian/keystores
+sudo mkdir -p /var/atlassian/keystores
 cd /var/atlassian/keystores
 ```
 
